@@ -1,0 +1,5 @@
+name: code
+version: 1.0v
+api: 3.12.0
+author: TaiG
+main: code\Main
