@@ -3,6 +3,11 @@ build-by-default: true
 branches:
 - main
 projects: 
+<<<<<<< HEAD
   Code:
   path: "Code/"
+=======
+  code:
+  path: ""
+>>>>>>> 3d408c65411ecf0f12e31e503136c98d052b91cd
 ...
